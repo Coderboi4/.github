@@ -9,7 +9,7 @@
 </div>
 
 ## <a href="#--how-to-join"> <img src="https://oyepriyansh.pages.dev/877479021909245983.gif" width="25"></a> How to join 
-1. Raise a issue by clicking [here](https://thedevarena.github.io/join). (you will receive an invitation)
+1. Raise a issue by clicking [here](https://github.com/TheDevArena/Interact/issues/new?assignees=&labels=Invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization). (you will receive an invitation)
 2. After submitting the issue you will receive an invitation on mail, accept it.
 3. Make your organisation membership public.
     - Click this [link](https://github.com/orgs/TheDevArena/people).
